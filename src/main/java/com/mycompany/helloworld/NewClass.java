@@ -10,5 +10,20 @@ package com.mycompany.helloworld;
  * @author end user
  */
 public class NewClass {
+    private String prueba;
+
+    /**
+     * @return the prueba
+     */
+    public String getPrueba() {
+        return prueba;
+    }
+
+    /**
+     * @param prueba the prueba to set
+     */
+    public void setPrueba(String prueba) {
+        this.prueba = prueba;
+    }
     
 }

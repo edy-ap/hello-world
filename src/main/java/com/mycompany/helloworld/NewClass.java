@@ -17,6 +17,7 @@ public class NewClass {
      * @return the prueba
      */
     public String getPrueba() {
+        //
         return prueba;
     }
 

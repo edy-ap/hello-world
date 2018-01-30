@@ -11,7 +11,7 @@ package com.mycompany.helloworld;
  */
 public class NewClass {
     private String prueba;
-    private String prueba2;
+    private String Prueba2;
 
     /**
      * @return the prueba
@@ -26,20 +26,6 @@ public class NewClass {
      */
     public void setPrueba(String prueba) {
         this.prueba = prueba;
-    }
-
-    /**
-     * @return the prueba2
-     */
-    public String getPrueba2() {
-        return prueba2;
-    }
-
-    /**
-     * @param prueba2 the prueba2 to set
-     */
-    public void setPrueba2(String prueba2) {
-        this.prueba2 = prueba2;
     }
     
 }
